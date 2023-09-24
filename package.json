@@ -1,0 +1,21 @@
+{
+  "name": "anya-forger-is-cool",
+  "displayName": "anya-forger-is-cool",
+  "description": "pinkish dark mode theme made by Victoria Bruno",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "anya-forger-is-cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anya-forger-is-cool-color-theme.json"
+      }
+    ]
+  }
+}
